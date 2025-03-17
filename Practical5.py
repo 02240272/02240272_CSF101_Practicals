@@ -54,5 +54,5 @@ def analyze_text(filename):
     print(f"Most common word: '{common_word}' (appears {count} times)")
     print(f"Average word length: {avg_length:.2f} characters")
 
-# Run the analysis
+# Run  the analysis
 analyze_text('sample.txt')
